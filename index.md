@@ -1,3 +1,3 @@
-Hello Git
+## Coffee Receipts 
 Menu :
 - Classic-Coffee
