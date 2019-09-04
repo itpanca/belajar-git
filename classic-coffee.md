@@ -1,4 +1,4 @@
-# Classic Coffee by Jhon
+# Classic Coffee by Jhon Aja
 
 ## Bahan :
 - 4 sendok makan kopi bubuk instan
